@@ -1,7 +1,4 @@
 # Simple_Web_Calculater
-
-# README for Calculator Project
-
 ![Calculator](https://via.placeholder.com/600x300)
 
 ## Overview
